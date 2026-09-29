@@ -10,7 +10,7 @@ This utility integrates seamlessly into the Windows Explorer right-click menu, o
 * **Windows Right-click Context Menu Integration:** Adds a **"Paste (Robocopy)"** option to Windows right-click menus (both empty space (background) and direct item/drive).
 * **High-Performance Transfers:** Utilizes optimized `robocopy` parameters like `/MT` and `/J` and for maximum read/write efficiency.
 * **Intelligent Handling:** Automatically detects same-directory paste actions to perform standard duplication, routing inter-directory transfers through Robocopy.
-* **Real-Time Metrics:** Displays live progress tracking alongside rounded MB/s speed metrics.
+* **Real-Time Metrics:** Displays live progress tracking alongside MB/s speed metrics.
 * **Transparent Execution:** Pure PowerShell implementation with local user registry (`HKCU`) deployment and no background services.
 
 ## Example
