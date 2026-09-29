@@ -19,7 +19,7 @@ This utility integrates seamlessly into the Windows Explorer right-click menu, o
 
 ## Installation
 
-1. Clone or download this repository and place `RoboGUI.ps1` in your target local directory.
+1. Download the latest release and place `RoboGUI.ps1` in your target local directory.
 2. Open PowerShell and execute the installer switch:
    ```powershell
    .\RoboGUI.ps1 -Install
