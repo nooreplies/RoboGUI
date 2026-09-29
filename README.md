@@ -14,7 +14,8 @@ This utility integrates seamlessly into the Windows Explorer right-click menu, o
 * **Transparent Execution:** Pure PowerShell implementation with local user registry (`HKCU`) deployment and no background services.
 
 ## Example
-  <img width="607" height="415" alt="RoboGUI" src="https://github.com/user-attachments/assets/fcf80069-ad19-4293-890e-a8cb43df16a4" style="max-width: 100%; height: auto;" />
+<img width="614" height="430" alt="RoboGUI" src="https://github.com/user-attachments/assets/97188700-1c03-4076-88a0-3734d2e9726b" />
+
 
 ## Installation
 
